@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorLogin">#e0f2ff</color>
+    <color name="colorLoginBtn">#a7c5de</color>
+    <color name="colorRegister">#D4F1F4</color>
+    <color name="colorNewEntry">#e0f2ff</color>
+    <color name="colorSearch">#deefed</color>
+    <color name="colorPrimary">#A7C5DE</color>
+    <color name="colorPrimaryDark">#A9A9A9</color>
+    <color name="colorAccent">#A7C5DE</color>
+    <color name="colorRed">#FFD1DC</color>
+    <color name="colorYellow">#FAE20D</color>
+    <color name="colorGrey">#fcfcfc</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorCountry">#385E72</color>
+    <color name="colorOther">#6AABD2</color>
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="app_title">Countries of the World</string>
+    <string name="register_title">Join Us!</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_checkbox">Remember me</string>
+    <string name="login_login_btn">Login</string>
+    <string name="login_register_btn">Register</string>
+    <string name="signup_btn">Sign up</string>
+    <string name="login_invalid_username">Wrong Username Or/And Password</string>
+
+    <string name="set_email">Email</string>
+    <string name="login_invalid_credentials_message">Wrong! username or password</string>
+    <string name="invalid_email">Wrong Email</string>
+    <string name="new_user">Created New User</string>
+
+    <string name="search_loading_data">Please wait for countries data to be displayed</string>
+    <string name="search_error_reading_data">Couldnt read data from API. For more information: </string>
+    <string name="search_no_results">No search results found for query: </string>
+    <string name="search_found_entries_from_api">Found total number of country entries: </string>
+
+    <string name="new_entry_country">Country:</string>
+    <string name="new_entry_country_norway">Norway</string>
+    <string name="new_entry_country_sweden">Sweden</string>
+    <string name="new_entry_country_denmark">Denmark</string>
+    <string name="new_entry_country_finland">Finland</string>
+    <string name="new_entry_country_capital">Capital:</string>
+    <string name="new_entry_country_oslo">Oslo</string>
+    <string name="new_entry_country_stockholm">Stockholm</string>
+    <string name="new_entry_country_copenhagen">Copenhagen</string>
+    <string name="new_entry_country_helsinki">Helsinki</string>
+    <string name="new_entry_country_region">Region:</string>
+    <string name="new_entry_region_1">Europe</string>
+    <string name="new_entry_region_2">Asia</string>
+    <string name="new_entry_region_3">Africa</string>
+    <string name="new_entry_region_4">Australia</string>
+    <string name="new_entry__country_population">Population:</string>
+    <string name="new_entry__country_population_1">10 000</string>
+    <string name="new_entry__country_population_2">50 000</string>
+    <string name="new_entry__country_population_3">100 000</string>
+    <string name="new_entry__country_timezone">Timezone:</string>
+    <string name="new_entry__country_timezone_1"> ["UTC+04:30"]</string>
+    <string name="new_entry__country_timezone_2"> ["UTC+02:00"]</string>
+    <string name="new_entry__country_timezone_3">["UTC+01:00"]</string>
+
+    <string name="new_entry_country_btn">Display</string>
+    <string name="new_entry_invalid_code">Incorrect country code</string>
+
+</resources>
